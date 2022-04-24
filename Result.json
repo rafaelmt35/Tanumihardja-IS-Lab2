@@ -1,0 +1,50 @@
+[
+    {
+        "generation": 1,
+        "best_genes": "",
+        "total_population": 4,
+        "average_fitness": 0.0,
+        "max_fitness": 0,
+        "mutation_rate": 10.0
+    },
+    {
+        "generation": 2,
+        "best_genes": "",
+        "total_population": 4,
+        "average_fitness": 0.0,
+        "max_fitness": 0,
+        "mutation_rate": 10.0
+    },
+    {
+        "generation": 3,
+        "best_genes": "",
+        "total_population": 4,
+        "average_fitness": 0.0,
+        "max_fitness": 0,
+        "mutation_rate": 10.0
+    },
+    {
+        "generation": 4,
+        "best_genes": "",
+        "total_population": 4,
+        "average_fitness": 0.0,
+        "max_fitness": 0,
+        "mutation_rate": 10.0
+    },
+    {
+        "generation": 5,
+        "best_genes": "",
+        "total_population": 4,
+        "average_fitness": 0.0,
+        "max_fitness": 0,
+        "mutation_rate": 10.0
+    },
+    {
+        "generation": 6,
+        "best_genes": "",
+        "total_population": 4,
+        "average_fitness": 0.0,
+        "max_fitness": 0,
+        "mutation_rate": 10.0
+    }
+]
